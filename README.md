@@ -47,7 +47,6 @@ If you believe that translation is invalid, or does not make sense in the contex
 | Slovak - Slovenčina | :heavy_multiplication_x: |
 | Spanish - Español | :heavy_multiplication_x: |
 | Swedish - Svenska | :heavy_multiplication_x: |
-| Tagalog | :heavy_multiplication_x: |
 | Turkish - Türkçe | :heavy_multiplication_x: |
 | Ukranian - Українська | :heavy_multiplication_x: |
 | Vietnamese - Tiếng Việt | :heavy_multiplication_x: |
