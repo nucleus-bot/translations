@@ -51,7 +51,7 @@ The `Name` and `Description` fields are the Name and Description, relatively, of
 
 Each reference will begin with `tv.bossnation.plugin` as is required by Elgato. `tv.bossnation` is Reverse-DNS format, and this is our *plugin*. `button` refers to the actual name of the action to be performed.
 
-Each reference will also be an object that looks like the following reference:
+Each reference will also be an object that looks like the following example:
 
 ```
 {
