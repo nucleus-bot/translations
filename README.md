@@ -40,6 +40,7 @@ If you believe that translation is invalid, or does not make sense in the contex
 | Korean - 한국어 | :heavy_multiplication_x: |
 | Malay | :heavy_multiplication_x: |
 | Norwegian - Norsk | :heavy_exclamation_mark: |
+| Persian - فارسی | :heavy_multiplication_x: |
 | Polish - Polski | :heavy_multiplication_x: |
 | Portugese - Português | :heavy_multiplication_x: |
 | Romanian - Română | :heavy_multiplication_x: |
