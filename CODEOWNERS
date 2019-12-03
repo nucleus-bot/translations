@@ -1,0 +1,16 @@
+#
+# This CodeOwners file displays all of the translators currently
+# responsible for maintaining translation files available to NucleusBot
+#
+# Thanks to their dedication, we are able to provide these translations
+#
+
+# English and Blank Translation Files
+/Website/en_US/		@boss-nation-llc/translators-english
+/Bot/en_US/		@boss-nation-llc/translators-english
+/Website/Empty/		@boss-nation-llc/translators-english
+/Bot/Empty/		@boss-nation-llc/translators-english
+
+# Norwegian Translators
+/Website/nb_NO/		@boss-nation-llc/translators-norwegian
+/Bot/nb_NO/		@boss-nation-llc/translators-norwegian
