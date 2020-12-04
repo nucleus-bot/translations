@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a Website Issue
+    url: https://github.com/nucleus-bot/website/issues
+    about: Use for anything related to nucleus.bot in the browser; The website, the dashboard, or the API
+  - name: Report a Bot Issue
+    url: https://github.com/nucleus-bot/bot/issue
+    about: For anything related to integrations with chat and commands
