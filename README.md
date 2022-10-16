@@ -10,47 +10,47 @@ If you believe that translation is invalid, or does not make sense in the contex
 
 | Icon | Status |
 | :---: | :--- |
-| ![Check](https://cdn.nucleus.bot/translations/status/check.png?) | Completed
+| ![Check](https://cdn.nucleus.bot/translations/status/check.png?) | Completed |
 | ![Exclamation](https://cdn.nucleus.bot/translations/status/notice.png?) | Needs to be updated, or may need revision |
 | ![Unknown](https://cdn.nucleus.bot/translations/status/unknown.png?) | May not need to be included |
 | ![Times](https://cdn.nucleus.bot/translations/status/times.png?) | Missing |
 
-| Language | Status |
-| :--- | :---: |
-| Arabic - العربية | ![Arabic](https://api.nucleus.bot/translations/status/ar_sa.png) |
-| Bulgarian - български език | ![Bulgarian](https://api.nucleus.bot/translations/status/bg_bg.png) |
-| Catalan - Català | ![Catalan](https://api.nucleus.bot/translations/status/ca_es.png) |
-| Czech - Český | ![Czech](https://api.nucleus.bot/translations/status/cs_cz.png) |
-| Chinese (Traditional) | ![Chinese_Traditional](https://api.nucleus.bot/translations/status/zh_tw.png) |
-| Chinese (Simplified) | ![Chinese_Simplified](https://api.nucleus.bot/translations/status/zh_cn.png) |
-| Danish - Dansk | ![Danish](https://api.nucleus.bot/translations/status/da_dk.png) |
-| Dutch - Nederlands | ![Dutch](https://api.nucleus.bot/translations/status/nl_nl.png) |
-| English (US) | ![English_US](https://api.nucleus.bot/translations/status/en_us.png) |
-| English (GB) | ![English_GB](https://api.nucleus.bot/translations/status/en_gb.png) |
-| Farsi / Persian - فارسی | ![Persian](https://api.nucleus.bot/translations/status/fa_ir.png) |
-| Finnish - Suomi | ![Finnish](https://api.nucleus.bot/translations/status/fi_fi.png) |
-| French - Français | ![French](https://api.nucleus.bot/translations/status/fr_fr.png) |
-| German - Deutsch | ![German](https://api.nucleus.bot/translations/status/de_de.png) |
-| Greek - Ελληνικά | ![Greek](https://api.nucleus.bot/translations/status/el_gr.png) |
-| Hebrew - עברית | ![Hebrew](https://api.nucleus.bot/translations/status/he_il.png) |
-| Hindi - हिन्दी | ![Hindi](https://api.nucleus.bot/translations/status/hi_in.png) |
-| Hungarian - Magyar | ![Hungarian](https://api.nucleus.bot/translations/status/hu_hu.png) |
-| Indonesian - Bahasa Indonesia | ![Indonesian](https://api.nucleus.bot/translations/status/in_id.png) |
-| Italian - Italiano | ![Italian](https://api.nucleus.bot/translations/status/it_it.png) |
-| Japanese - 日本語 | ![Japanese](https://api.nucleus.bot/translations/status/ja_jp.png) |
-| Korean - 한국어 | ![Korean](https://api.nucleus.bot/translations/status/ko_kr.png) |
-| Malay - Melayu | ![Malay](https://api.nucleus.bot/translations/status/ms_my.png) |
-| Norwegian - Norsk | ![Norwegian](https://api.nucleus.bot/translations/status/nb_no.png) |
-| Polish - Polski | ![Polish](https://api.nucleus.bot/translations/status/pl_pl.png) |
-| Portugese - Português | ![Portugese](https://api.nucleus.bot/translations/status/pt_br.png) |
-| Romanian - Română | ![Romanian](https://api.nucleus.bot/translations/status/ro_ro.png) |
-| Russian - Русский | ![Russian](https://api.nucleus.bot/translations/status/ru_ru.png) |
-| Slovak - Slovenčina | ![Slovak](https://api.nucleus.bot/translations/status/sk_sk.png) |
-| Spanish - Español | ![Spanish](https://api.nucleus.bot/translations/status/es_es.png) |
-| Swedish - Svenska | ![Swedish](https://api.nucleus.bot/translations/status/sv_se.png) |
-| Turkish - Türkçe | ![Turkish](https://api.nucleus.bot/translations/status/tr_tr.png) |
-| Ukranian - Українська | ![Ukranian](https://api.nucleus.bot/translations/status/uk_ua.png) |
-| Vietnamese - Tiếng Việt | ![Vietnamese](https://api.nucleus.bot/translations/status/vi_vn.png) |
+| Language |                                    Status                                     |
+| :--- |:-----------------------------------------------------------------------------:|
+| Arabic - العربية |         ![Arabic](https://cdn.nucleus.bot/i18n/status/ar_sa.png)          |
+| Bulgarian - български език |      ![Bulgarian](https://cdn.nucleus.bot/i18n/status/bg_bg.png)      |
+| Catalan - Català |       ![Catalan](https://cdn.nucleus.bot/i18n/status/ca_es.png)       |
+| Czech - Český |        ![Czech](https://cdn.nucleus.bot/i18n/status/cs_cz.png)        |
+| Chinese (Traditional) | ![Chinese_Traditional](https://cdn.nucleus.bot/i18n/status/zh_tw.png) |
+| Chinese (Simplified) | ![Chinese_Simplified](https://cdn.nucleus.bot/i18n/status/zh_cn.png)  |
+| Danish - Dansk |       ![Danish](https://cdn.nucleus.bot/i18n/status/da_dk.png)        |
+| Dutch - Nederlands |        ![Dutch](https://cdn.nucleus.bot/i18n/status/nl_nl.png)        |
+| English (US) |     ![English_US](https://cdn.nucleus.bot/i18n/status/en_us.png)      |
+| English (GB) |     ![English_GB](https://cdn.nucleus.bot/i18n/status/en_gb.png)      |
+| Farsi / Persian - فارسی |       ![Persian](https://cdn.nucleus.bot/i18n/status/fa_ir.png)       |
+| Finnish - Suomi |       ![Finnish](https://cdn.nucleus.bot/i18n/status/fi_fi.png)       |
+| French - Français |       ![French](https://cdn.nucleus.bot/i18n/status/fr_fr.png)        |
+| German - Deutsch |       ![German](https://cdn.nucleus.bot/i18n/status/de_de.png)        |
+| Greek - Ελληνικά |        ![Greek](https://cdn.nucleus.bot/i18n/status/el_gr.png)        |
+| Hebrew - עברית |       ![Hebrew](https://cdn.nucleus.bot/i18n/status/he_il.png)        |
+| Hindi - हिन्दी |        ![Hindi](https://cdn.nucleus.bot/i18n/status/hi_in.png)        |
+| Hungarian - Magyar |      ![Hungarian](https://cdn.nucleus.bot/i18n/status/hu_hu.png)      |
+| Indonesian - Bahasa Indonesia |     ![Indonesian](https://cdn.nucleus.bot/i18n/status/in_id.png)      |
+| Italian - Italiano |       ![Italian](https://cdn.nucleus.bot/i18n/status/it_it.png)       |
+| Japanese - 日本語 |      ![Japanese](https://cdn.nucleus.bot/i18n/status/ja_jp.png)       |
+| Korean - 한국어 |       ![Korean](https://cdn.nucleus.bot/i18n/status/ko_kr.png)        |
+| Malay - Melayu |        ![Malay](https://cdn.nucleus.bot/i18n/status/ms_my.png)        |
+| Norwegian - Norsk |      ![Norwegian](https://cdn.nucleus.bot/i18n/status/nb_no.png)      |
+| Polish - Polski |       ![Polish](https://cdn.nucleus.bot/i18n/status/pl_pl.png)        |
+| Portugese - Português |      ![Portugese](https://cdn.nucleus.bot/i18n/status/pt_br.png)      |
+| Romanian - Română |      ![Romanian](https://cdn.nucleus.bot/i18n/status/ro_ro.png)       |
+| Russian - Русский |       ![Russian](https://cdn.nucleus.bot/i18n/status/ru_ru.png)       |
+| Slovak - Slovenčina |       ![Slovak](https://cdn.nucleus.bot/i18n/status/sk_sk.png)        |
+| Spanish - Español |       ![Spanish](https://cdn.nucleus.bot/i18n/status/es_es.png)       |
+| Swedish - Svenska |       ![Swedish](https://cdn.nucleus.bot/i18n/status/sv_se.png)       |
+| Turkish - Türkçe |       ![Turkish](https://cdn.nucleus.bot/i18n/status/tr_tr.png)       |
+| Ukranian - Українська |      ![Ukranian](https://cdn.nucleus.bot/i18n/status/uk_ua.png)       |
+| Vietnamese - Tiếng Việt |     ![Vietnamese](https://cdn.nucleus.bot/i18n/status/vi_vn.png)      |
 
 # Translation Guide
 
