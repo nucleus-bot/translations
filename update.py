@@ -76,38 +76,39 @@ for folder in ['Bot/en_US', 'Website/en_US']:
 
 # Const of all supported language-codes
 languages = [
-    "ar_SA",
-    "bg_BG",
-    "ca_ES",
-    "cs_CZ",
-    "zh_CN",
-    "da_DK",
-    "nl_NL",
-    "en_GB",
-    "fa_IR",
-    "fi_FI",
-    "fr_FR",
-    "de_DE",
-    "el_GR",
-    "he_IL",
-    "hi_IN",
-    "hu_HU",
-    "in_ID",
-    "it_IT",
-    "ja_JP",
-    "ko_KR",
-    "ms_MY",
-    "nb_NO",
-    "pl_PL",
-    "pt_BR",
-    "ro_RO",
-    "ru_RU",
-    "sk_SK",
-    "es_ES",
-    "sv_SE",
-    "tr_TR",
-    "uk_UA",
-    "vi_VN"
+    'Empty',
+    'ar_SA',
+    'bg_BG',
+    'ca_ES',
+    'cs_CZ',
+    'zh_CN',
+    'da_DK',
+    'nl_NL',
+    'en_GB',
+    'fa_IR',
+    'fi_FI',
+    'fr_FR',
+    'de_DE',
+    'el_GR',
+    'he_IL',
+    'hi_IN',
+    'hu_HU',
+    'in_ID',
+    'it_IT',
+    'ja_JP',
+    'ko_KR',
+    'ms_MY',
+    'nb_NO',
+    'pl_PL',
+    'pt_BR',
+    'ro_RO',
+    'ru_RU',
+    'sk_SK',
+    'es_ES',
+    'sv_SE',
+    'tr_TR',
+    'uk_UA',
+    'vi_VN'
 ]
 
 for language in languages:
@@ -115,7 +116,13 @@ for language in languages:
         path = file.replace('en_US', language)
 
         engl = get_file_key_values(file, True)
-        curr = as_dict(get_file_key_values(path))
+
+        # If the file should be empty, don't bother
+        #   reading the file, just print with empty keys
+        if language == 'None':
+            curr = {}
+        else:
+            curr = as_dict(get_file_key_values(path))
 
         output = None
 
