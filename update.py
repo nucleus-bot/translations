@@ -113,16 +113,19 @@ languages = [
 
 for language in languages:
     for file in files:
-        path = file.replace('en_US', language)
-
         engl = get_file_key_values(file, True)
 
         # If the file should be empty, don't bother
         #   reading the file, just print with empty keys
-        if language == 'None':
+        if language == 'Empty':
+            path = file.replace('en_US', language, 1)
             curr = {}
         else:
+            path = file.replace('en_US', language)
             curr = as_dict(get_file_key_values(path))
+
+        print(path)
+        continue
 
         output = None
 
