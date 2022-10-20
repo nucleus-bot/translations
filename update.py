@@ -124,9 +124,6 @@ for language in languages:
             path = file.replace('en_US', language)
             curr = as_dict(get_file_key_values(path))
 
-        print(path)
-        continue
-
         output = None
 
         # Loop over all of the "Tuples" present in the English file
