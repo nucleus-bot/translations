@@ -111,7 +111,14 @@ languages = [
     'vi_VN'
 ]
 
+# Print any keys that are removed by this script
+#   keys can be removed if users enter abitrary keys
+#   or sometimes (under rare dev circumstance) if a key gets renamed
+spare_keys = 0
+
+# Iterate through the supported languages
 for language in languages:
+    print(f' - {language}:')
     for file in files:
         engl = get_file_key_values(file, True)
 
@@ -124,7 +131,9 @@ for language in languages:
             path = file.replace('en_US', language)
             curr = as_dict(get_file_key_values(path))
 
+        print(f'   {path}')
         output = None
+        copy = curr.copy()
 
         # Loop over all of the "Tuples" present in the English file
         #   If the 'value' of the tuple is 'None', the line is
@@ -136,6 +145,7 @@ for language in languages:
                 new = key
             elif key in curr: # Has existing translated value
                 new = f'{key} = {curr[key]}'
+                del copy[key]
             else: # A new empty const
                 new = f'{key} ='
 
@@ -145,6 +155,13 @@ for language in languages:
                 else:
                     output += f'{new}\n'
 
+        # Print any keys that were present in the language file that were not in en_US
+        if len(spares := copy.items()) > 0:
+            print(f'    Removed keys:')
+            for (key, value) in spares:
+                print(f'     {key} = {value}')
+                spare_keys += 1
+
         if output is not None:
             # Create the languages path if it doesn't exist
             dir = os.path.dirname(path)
@@ -153,3 +170,8 @@ for language in languages:
 
             with open(path, 'w', encoding='UTF-8') as writer:
                 writer.write(output)
+
+print()
+if spare_keys > 0:
+    print(f'Removed {spare_keys} extra present keys')
+print(f'Copied to {len(languages)} languages')
