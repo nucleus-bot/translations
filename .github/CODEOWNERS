@@ -17,137 +17,137 @@
 #
 
 # Arabic (ar_SA) Translators
-/Website/ar_SA/		@nucleus-bot/translators-arabic
-/Bot/ar_SA/		@nucleus-bot/translators-arabic
+/Website/ar_SA/		@nucleus-bot/staff @nucleus-bot/translators-arabic
+/Bot/ar_SA/		@nucleus-bot/staff @nucleus-bot/translators-arabic
 
 # Bulgarian (bg_BG) Translators
-/Website/bg_BG/		@nucleus-bot/translators-bulgarian
-/Bot/bg_BG/		@nucleus-bot/translators-bulgarian
+/Website/bg_BG/		@nucleus-bot/staff @nucleus-bot/translators-bulgarian
+/Bot/bg_BG/		@nucleus-bot/staff @nucleus-bot/translators-bulgarian
 
 # Catalan (ca_ES) Translators
-/Website/ca_ES/		@nucleus-bot/translators-catalan
-/Bot/ca_ES/		@nucleus-bot/translators-catalan
+/Website/ca_ES/		@nucleus-bot/staff @nucleus-bot/translators-catalan
+/Bot/ca_ES/		@nucleus-bot/staff @nucleus-bot/translators-catalan
 
 # Czech (cs_CZ) Translators
-/Website/cs_CZ/		@nucleus-bot/translators-czech
-/Bot/cs_CZ/		@nucleus-bot/translators-czech
+/Website/cs_CZ/		@nucleus-bot/staff @nucleus-bot/translators-czech
+/Bot/cs_CZ/		@nucleus-bot/staff @nucleus-bot/translators-czech
 
 # Chinese (zh_TW|Traditional) Translators
-/Website/zh_TW/		@nucleus-bot/translators-chinese-traditional
-/Bot/zh_TW/		@nucleus-bot/translators-chinese-traditional
+/Website/zh_TW/		@nucleus-bot/staff @nucleus-bot/translators-chinese-traditional
+/Bot/zh_TW/		@nucleus-bot/staff @nucleus-bot/translators-chinese-traditional
 
 # Chinese (zh_CN|Simplified) Translators
-/Website/zh_CN/		@nucleus-bot/translators-chinese-simplified
-/Bot/zh_CN/		@nucleus-bot/translators-chinese-simplified
+/Website/zh_CN/		@nucleus-bot/staff @nucleus-bot/translators-chinese-simplified
+/Bot/zh_CN/		@nucleus-bot/staff @nucleus-bot/translators-chinese-simplified
 
 # Danish (da_DK) Translators
-/Website/da_DK/		@nucleus-bot/translators-danish
-/Bot/da_DK/		@nucleus-bot/translators-chinese-traditional
+/Website/da_DK/		@nucleus-bot/staff @nucleus-bot/translators-danish
+/Bot/da_DK/		@nucleus-bot/staff @nucleus-bot/translators-chinese-traditional
 
 # Dutch (nl_NL) Translators
-/Website/nl_NL/		@nucleus-bot/translators-dutch
-/Bot/nl_NL/		@nucleus-bot/translators-dutch
+/Website/nl_NL/		@nucleus-bot/staff @nucleus-bot/translators-dutch
+/Bot/nl_NL/		@nucleus-bot/staff @nucleus-bot/translators-dutch
 
 # English (en_US|US) Translation Files
-/Website/en_US/		@nucleus-bot/translators-english-us
-/Bot/en_US/		@nucleus-bot/translators-english-us
+/Website/en_US/		@nucleus-bot/staff @nucleus-bot/translators-english-us
+/Bot/en_US/		@nucleus-bot/staff @nucleus-bot/translators-english-us
 
 # English (en_GB|GB) Translators
-/Website/en_GB/		@nucleus-bot/translators-english-gb
-/Bot/en_GB/		@nucleus-bot/translators-english-gb
+/Website/en_GB/		@nucleus-bot/staff @nucleus-bot/translators-english-gb
+/Bot/en_GB/		@nucleus-bot/staff @nucleus-bot/translators-english-gb
 
 # Farsi / Persian (fa_IR) Translators
-/Website/fa_IR/		@nucleus-bot/translators-farsi
-/Bot/fa_IR/		@nucleus-bot/translators-farsi
+/Website/fa_IR/		@nucleus-bot/staff @nucleus-bot/translators-farsi
+/Bot/fa_IR/		@nucleus-bot/staff @nucleus-bot/translators-farsi
 
 # Finnish (fi_FI) Translators
-/Website/fi_FI/		@nucleus-bot/translators-finnish
-/Bot/fi_FI/		@nucleus-bot/translators-finnish
+/Website/fi_FI/		@nucleus-bot/staff @nucleus-bot/translators-finnish
+/Bot/fi_FI/		@nucleus-bot/staff @nucleus-bot/translators-finnish
 
 # French (fr_FR) Translators
-/Website/fr_FR/		@nucleus-bot/translators-french
-/Bot/fr_FR/		@nucleus-bot/translators-french
+/Website/fr_FR/		@nucleus-bot/staff @nucleus-bot/translators-french
+/Bot/fr_FR/		@nucleus-bot/staff @nucleus-bot/translators-french
 
 # German (de_DE) Translators
-/Website/de_DE/		@nucleus-bot/translators-german
-/Bot/de_DE/		@nucleus-bot/translators-german
+/Website/de_DE/		@nucleus-bot/staff @nucleus-bot/translators-german
+/Bot/de_DE/		@nucleus-bot/staff @nucleus-bot/translators-german
 
 # Greek (el_GR) Translators
-/Website/el_GR/		@nucleus-bot/translators-greek
-/Bot/el_GR/		@nucleus-bot/translators-greek
+/Website/el_GR/		@nucleus-bot/staff @nucleus-bot/translators-greek
+/Bot/el_GR/		@nucleus-bot/staff @nucleus-bot/translators-greek
 
 # Hebrew (he_IL) Translators
-/Website/he_IL/		@nucleus-bot/translators-hebrew
-/Bot/he_IL/		@nucleus-bot/translators-hebrew
+/Website/he_IL/		@nucleus-bot/staff @nucleus-bot/translators-hebrew
+/Bot/he_IL/		@nucleus-bot/staff @nucleus-bot/translators-hebrew
 
 # Hindi (hi_IN) Translators
-/Website/hi_IN/		@nucleus-bot/translators-hindi
-/Bot/hi_IN/		@nucleus-bot/translators-hindi
+/Website/hi_IN/		@nucleus-bot/staff @nucleus-bot/translators-hindi
+/Bot/hi_IN/		@nucleus-bot/staff @nucleus-bot/translators-hindi
 
 # Hungarian (hu_HU) Translators
-/Website/hu_HU/		@nucleus-bot/translators-hungarian
-/Bot/hu_HU/		@nucleus-bot/translators-hungarian
+/Website/hu_HU/		@nucleus-bot/staff @nucleus-bot/translators-hungarian
+/Bot/hu_HU/		@nucleus-bot/staff @nucleus-bot/translators-hungarian
 
 # Indonesian (in_ID) Translators
-/Website/in_ID/		@nucleus-bot/translators-indonesian
-/Bot/in_ID/		@nucleus-bot/translators-indonesian
+/Website/in_ID/		@nucleus-bot/staff @nucleus-bot/translators-indonesian
+/Bot/in_ID/		@nucleus-bot/staff @nucleus-bot/translators-indonesian
 
 # Italian (it_IT) Translators
-/Website/it_IT/		@nucleus-bot/translators-italian
-/Bot/it_IT/		@nucleus-bot/translators-italian
+/Website/it_IT/		@nucleus-bot/staff @nucleus-bot/translators-italian
+/Bot/it_IT/		@nucleus-bot/staff @nucleus-bot/translators-italian
 
 # Japanese (ja_JP) Translators
-/Website/ja_JP/		@nucleus-bot/translators-japanese
-/Bot/ja_JP/		@nucleus-bot/translators-japanese
+/Website/ja_JP/		@nucleus-bot/staff @nucleus-bot/translators-japanese
+/Bot/ja_JP/		@nucleus-bot/staff @nucleus-bot/translators-japanese
 
 # Korean (ko_KR) Translators
-/Website/ko_KR/		@nucleus-bot/translators-korean
-/Bot/ko_KR/		@nucleus-bot/translators-korean
+/Website/ko_KR/		@nucleus-bot/staff @nucleus-bot/translators-korean
+/Bot/ko_KR/		@nucleus-bot/staff @nucleus-bot/translators-korean
 
 # Malay (ms_MY) Translators
-/Website/ms_MY/		@nucleus-bot/translators-malay
-/Bot/ms_MY/		@nucleus-bot/translators-malay
+/Website/ms_MY/		@nucleus-bot/staff @nucleus-bot/translators-malay
+/Bot/ms_MY/		@nucleus-bot/staff @nucleus-bot/translators-malay
 
 # Norwegian (nb_NO) Translators
-/Website/nb_NO/		@nucleus-bot/translators-norwegian
-/Bot/nb_NO/		@nucleus-bot/translators-norwegian
+/Website/nb_NO/		@nucleus-bot/staff @nucleus-bot/translators-norwegian
+/Bot/nb_NO/		@nucleus-bot/staff @nucleus-bot/translators-norwegian
 
 # Polish (pl_PL) Translators
-/Website/pl_PL/		@nucleus-bot/translators-polish
-/Bot/pl_PL/		@nucleus-bot/translators-polish
+/Website/pl_PL/		@nucleus-bot/staff @nucleus-bot/translators-polish
+/Bot/pl_PL/		@nucleus-bot/staff @nucleus-bot/translators-polish
 
 # Portugese (pt_BR) Translators
-/Website/pt_BR/		@nucleus-bot/translators-portugese
-/Bot/pt_BR/		@nucleus-bot/translators-portugese
+/Website/pt_BR/		@nucleus-bot/staff @nucleus-bot/translators-portugese
+/Bot/pt_BR/		@nucleus-bot/staff @nucleus-bot/translators-portugese
 
 # Romanian (ro_RO) Translators
-/Website/ro_RO/		@nucleus-bot/translators-romanian
-/Bot/ro_RO/		@nucleus-bot/translators-romanian
+/Website/ro_RO/		@nucleus-bot/staff @nucleus-bot/translators-romanian
+/Bot/ro_RO/		@nucleus-bot/staff @nucleus-bot/translators-romanian
 
 # Russian (ru_RU) Translators
-/Website/ru_RU/		@nucleus-bot/translators-russian
-/Bot/ru_RU/		@nucleus-bot/translators-russian
+/Website/ru_RU/		@nucleus-bot/staff @nucleus-bot/translators-russian
+/Bot/ru_RU/		@nucleus-bot/staff @nucleus-bot/translators-russian
 
 # Slovak (sk_SK) Translators
-/Website/sk_SK/		@nucleus-bot/translators-slovak
-/Bot/sk_SK/		@nucleus-bot/translators-slovak
+/Website/sk_SK/		@nucleus-bot/staff @nucleus-bot/translators-slovak
+/Bot/sk_SK/		@nucleus-bot/staff @nucleus-bot/translators-slovak
 
 # Spanish (es_ES) Translators
-/Website/es_ES/		@nucleus-bot/translators-spanish
-/Bot/es_ES/		@nucleus-bot/translators-spanish
+/Website/es_ES/		@nucleus-bot/staff @nucleus-bot/translators-spanish
+/Bot/es_ES/		@nucleus-bot/staff @nucleus-bot/translators-spanish
 
 # Swedish (sv_SE) Translators
-/Website/sv_SE/		@nucleus-bot/translators-swedish
-/Bot/sv_SE/		@nucleus-bot/translators-swedish
+/Website/sv_SE/		@nucleus-bot/staff @nucleus-bot/translators-swedish
+/Bot/sv_SE/		@nucleus-bot/staff @nucleus-bot/translators-swedish
 
 # Turkish (tr_TR) Translators
-/Website/tr_TR/		@nucleus-bot/translators-turkish
-/Bot/tr_TR/		@nucleus-bot/translators-turkish
+/Website/tr_TR/		@nucleus-bot/staff @nucleus-bot/translators-turkish
+/Bot/tr_TR/		@nucleus-bot/staff @nucleus-bot/translators-turkish
 
 # Ukranian (uk_UA) Translators
-/Website/uk_UA/		@nucleus-bot/translators-ukranian
-/Bot/uk_UA/		@nucleus-bot/translators-ukranian
+/Website/uk_UA/		@nucleus-bot/staff @nucleus-bot/translators-ukranian
+/Bot/uk_UA/		@nucleus-bot/staff @nucleus-bot/translators-ukranian
 
 # Vietnamese (vi_VN) Translators
-/Website/vi_VN/		@nucleus-bot/translators-vietnamese
-/Bot/vi_VN/		@nucleus-bot/translators-vietnamese
+/Website/vi_VN/		@nucleus-bot/staff @nucleus-bot/translators-vietnamese
+/Bot/vi_VN/		@nucleus-bot/staff @nucleus-bot/translators-vietnamese
